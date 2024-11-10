@@ -5,13 +5,30 @@
 
 body {
     background-color: aqua;
+    width: 900px;
+    border: 50px;
 }
 
 main {
     background-color: white;
-    width: 500px;
+    width: 900px;
+    width: fit-content 100px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0.473);
+    box-shadow: 3px 3px 5px rgb(243, 1, 1);
+}
+
+h1 {
+    font-size: 2em;
+    color: rgb(169, 2, 247);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: blueviolet;
+}
+
+a {
+    text-decoration: ;
 }
 
